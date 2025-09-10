@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361911417073",
+    "project_id": "nexazan",
+    "storage_bucket": "nexazan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361911417073:android:9cc77dda6e9bbc2d61d150",
+        "android_client_info": {
+          "package_name": "com.Nexgeno.Nexazan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQrc30duQTLJbtzIoaqerLs0pDgLLZ9zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361911417073:android:941930c895e7e46661d150",
+        "android_client_info": {
+          "package_name": "com.example.test_live_azan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQrc30duQTLJbtzIoaqerLs0pDgLLZ9zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
